@@ -3,6 +3,6 @@
     "edit_and_reload": "Edit <1>src/App.js</1> and save to reload.",
     "learn_react": "Learn React",
     "listmap_one": "Задача запущена: <1>url</1>",
-    "listmap_other": "Задачи запущены: <1>urls</1>"
+    "listmap_few": "Задачи запущены: <1>urls</1>"
   }
 }
