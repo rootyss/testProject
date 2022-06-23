@@ -4,7 +4,8 @@ import * as React from 'react';
 
 function App() {
   const links = ['1', '2', '3', '4'];
-  return (
+
+    return (
       <div className="App">
         <header className="App-header">
           <Trans i18nKey="listmap" count={links.length}>

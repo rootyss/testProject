@@ -2,7 +2,7 @@
   "translation": {
     "edit_and_reload": "Edit <1>src/App.js</1> and save to reload.",
     "learn_react": "Learn React",
-    "listmap_one": "Task running: <1>url</1>",
-    "listmap_other": "Tasks running: <1>urls</1>"
+    "listmap_one": "Task running: <1></1>",
+    "listmap_other": "Tasks running: <1></1>"
   }
 }
